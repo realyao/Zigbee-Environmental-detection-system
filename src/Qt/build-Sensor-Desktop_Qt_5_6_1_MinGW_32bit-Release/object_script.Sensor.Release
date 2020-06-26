@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\logindialog.o
+./release\sa.o
+./release\employee.o
+./release\qrc_myico.o
+./release\moc_mainwindow.o
+./release\moc_logindialog.o
+./release\moc_sa.o
+./release\moc_employee.o
+);
